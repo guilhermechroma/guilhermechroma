@@ -1,4 +1,4 @@
-# ☀️ Guilherme (ChromaCaipira) da Silva
+# ☀️ Guilherme (ChromaAqui) da Silva
 
 🔭 Estou à procura de emprego na **área da tecnologia** </br>
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na UNINASSAU Paulista </br>
