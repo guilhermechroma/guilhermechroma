@@ -1,7 +1,8 @@
-# ☀️ Guilherme (ChromaAqui) da Silva
+# ☀️ Guilherme Henrique Soares da Silva
 
 🔭 Estou à procura de emprego na **área da tecnologia** </br>
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na UNINASSAU Paulista </br>
+🏫 Atualmente cursando **Sistemas de Informação** na UNINASSAU Olinda </br>
 🧠 Aprimorando meus conhecimentos em **Java, JavaScript, HTML e CSS** </br>
 📫 Contate-me por: <a href="mailto:contatoguilhermechroma@gmail.com">**contatoguilhermechroma@gmail.com**</a> </br>
 
