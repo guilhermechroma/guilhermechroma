@@ -5,6 +5,7 @@
 🔭 Estou à procura do meu primeiro estágio na **área da tecnologia** </br>
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na UNINASSAU Paulista </br>
 🏫 Atualmente cursando **Sistemas de Informação** na UNINASSAU Olinda </br>
+🤓 Participando do treinamento **Bolsa Futuro Digital** da Softex Pernambuco </br>
 🧠 Aprimorando meus conhecimentos em **React, JavaScript, HTML, CSS e Java** </br>
 📫 Contate-me por: <a href="mailto:contatoguilhermechroma@gmail.com">**contatoguilhermechroma@gmail.com**</a> </br>
 
