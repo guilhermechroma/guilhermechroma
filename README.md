@@ -44,6 +44,6 @@
 ### 📈 Estatísticas
 
 <div position="relative">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermechroma&locale=pt-br&show_icons=true&hide_title=true&include_all_commits=true&theme=react&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermechroma&locale=pt-br&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=react&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermechroma&layout=compact&langs_count=6&locale=pt-br&theme=react&hide_border=true"/>
 </div>
