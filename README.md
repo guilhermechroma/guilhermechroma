@@ -2,12 +2,12 @@
 
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZvNGZmMmhld3FpZ3VhMzg0OHc4MDIycWNvYmw2Nm95cTkxc2IzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
 
-🔭 Estou à procura do meu primeiro estágio na **área da tecnologia** </br>
+🔭 Estou à procura do meu primeiro estágio na **área da tecnologia** (Estágio em TI) </br>
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na UNINASSAU Paulista </br>
 🏫 Atualmente cursando **Sistemas de Informação** na UNINASSAU Olinda </br>
-🤓 Participando do treinamento **Bolsa Futuro Digital** da Softex Pernambuco </br>
+🤓 Participando do treinamento **Bolsa Futuro Digital** da Aponti PE </br>
 🧠 Aprimorando meus conhecimentos em **React, JavaScript, HTML, CSS e Java** </br>
-📫 Contate-me por: <a href="mailto:contatoguilhermechroma@gmail.com">**contatoguilhermechroma@gmail.com**</a> </br>
+📫 Contate-me por: <a href="mailto:contatoguilhermechroma@gmail.com">**guilhermechroma.dev@gmail.com**</a> </br>
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-chroma/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
