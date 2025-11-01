@@ -6,8 +6,8 @@
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na UNINASSAU Paulista </br>
 🏫 Atualmente cursando **Sistemas de Informação** na UNINASSAU Olinda </br>
 🤓 Participando do treinamento **Bolsa Futuro Digital** da Aponti PE </br>
+🧐 Forte capacidade de desenvolver em **JavaScript, HTML, CSS e Java** </br>
 🧠 Aprimorando meus conhecimentos em **React, TypeScript e Python** </br>
-🧐 Forte capacidade de desenvolver em **JavaScript, HTML, CSS, Java** </br>
 📫 Contate-me por: <a href="mailto:guilhermechroma.dev@gmail.com">**guilhermechroma.dev@gmail.com**</a> </br>
 
 <div>
