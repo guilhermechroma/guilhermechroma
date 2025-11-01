@@ -7,11 +7,11 @@
 🏫 Atualmente cursando **Sistemas de Informação** na UNINASSAU Olinda </br>
 🤓 Participando do treinamento **Bolsa Futuro Digital** da Aponti PE </br>
 🧠 Aprimorando meus conhecimentos em **React, JavaScript, HTML, CSS e Java** </br>
-📫 Contate-me por: <a href="mailto:contatoguilhermechroma@gmail.com">**guilhermechroma.dev@gmail.com**</a> </br>
+📫 Contate-me por: <a href="mailto:guilhermechroma.dev@gmail.com">**guilhermechroma.dev@gmail.com**</a> </br>
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-chroma/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoguilhermechroma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermechroma.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 #
