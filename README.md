@@ -5,7 +5,7 @@
 🔭 Estou à procura do meu primeiro estágio na **área da tecnologia** (Estágio em TI) </br>
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na UNINASSAU Paulista </br>
 🏫 Atualmente cursando **Sistemas de Informação** na UNINASSAU Olinda </br>
-🤓 Participando do treinamento **Bolsa Futuro Digital** da Aponti PE </br>
+🤓 Participando do treinamento **Bolsa Futuro Digital** na Aponti </br>
 🧐 Forte capacidade de desenvolver em **JavaScript, HTML, CSS e Java** </br>
 🧠 Aprimorando meus conhecimentos em **React, TypeScript e Python** </br>
 📫 Contate-me por: <a href="mailto:guilhermechroma.dev@gmail.com">**guilhermechroma.dev@gmail.com**</a> </br>
@@ -20,11 +20,11 @@
 ### ⭐ Competências
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
