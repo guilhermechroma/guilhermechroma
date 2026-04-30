@@ -5,8 +5,8 @@
 🔭 Estou à procura do meu primeiro estágio na **área da tecnologia** (Estágio em TI) </br>
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na UNINASSAU Paulista </br>
 🏫 Atualmente cursando **Sistemas de Informação** na UNINASSAU Olinda </br>
-🤓 Participei do programa **Bolsa Futuro Digital** na Aponti </br>
-🧐 Forte capacidade de desenvolver em **JavaScript, HTML, CSS e Java** </br>
+🧐 Trabalhando em residência para **Mada.ai**, pelo programa **Bolsa Futuro Digital** (Aponti) </br>
+🤓 Forte capacidade de desenvolver em **JavaScript, HTML, CSS e Java** </br>
 🧠 Aprimorando meus conhecimentos em **React, TypeScript e Python** </br>
 📫 Contate-me por: <a href="mailto:guilhermechroma.dev@gmail.com">**guilhermechroma.dev@gmail.com**</a> </br>
 
